@@ -18,5 +18,6 @@ Note: this artifact is located at Datanucleus repository (https://www.datanucleu
     </repository>
   </repositories>
 
-
+red hat
+https://maven.repository.redhat.com/ga/
 
